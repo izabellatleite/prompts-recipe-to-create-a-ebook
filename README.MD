@@ -19,7 +19,7 @@
 | Conteúdo | Faça um texto para ebook , com foco em LinkedIn, listando as principais boas práticas e ideias de conteúdos para postar. O público alvo são universitários que estão ingressando no mercado de trabalho e precisam aparecer mais no feed, de formas estratégica e atrativa para recrutadores {REGRAS} Explique sempre de uma maneira simples. Deixe o texto enxuto. Sempre traga exemplos em contextos reais. Sempre deixe um título sugestivo por tópico |
 | Capa | Monte uma capa no tamanho A4 para um ebook nas cores do LinkedIn. Quero uma jovem universitária, usando o LinkedIn no notebook, cor de pele parda, cabelos castanhos e longos. Com o título “Faz teu nome” grande e abaixo o subtítulo “O guia para quem acabou de chegar no LinkedIn e quer causar uma boa impressão”. O fundo azul na cor do LinkedIn e o título e subtítulos brancos. A fonte bonita e sem serif |
 
-## ✨ Features
+## ✨ Como foi feito?
 
 - Conteúdo e capa gerados via ChatGPT
 - Diagramação via Canva
